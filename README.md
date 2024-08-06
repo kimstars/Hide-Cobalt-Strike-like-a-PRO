@@ -8,7 +8,6 @@ Bypass Kaspersky End Point Security AV/EDR
 
 <p align="center">
 
-
 ~/ Clone *.Kaspersky.com SSL & Avoid BlueTeam
 
 ~/ Bypass Kaspersky AV / EDR 12.27.2023
@@ -37,7 +36,7 @@ As i see and I want mention here one thing, the leaked cobaltstrike 4.9 it's not
 
 <h2 align="center"></h2>
 
-<img src="./img2/CS_4.9_beacon_exit.png" 
+<img src="./img2/CS_4.9_beacon_exit.png" />
 
 <p align="center">
 
@@ -114,7 +113,7 @@ First you need to download latest version from official site here, and choice yo
 
 <h2 align="center"></h2>
 
-<img src="./img2/Idea_activate_button.png" />
+![./img2/Idea_activate_button.png](./img2/Idea_activate_button.png)
 
 <p align="center">
 
@@ -503,7 +502,7 @@ But now you need to check the real SSL information, and write it down for our us
 
 <h2 align="center"></h2>
 
-<img src="./img2/TLS_Kaspersky_1.png" 
+<img src="./img2/TLS_Kaspersky_1.png" />
 
 <p align="center">
 
@@ -512,7 +511,7 @@ Click in details to get more information.
 
 <h2 align="center"></h2>
 
-<img src="./img2/TLS_Kaspersky.png" 
+<img src="./img2/TLS_Kaspersky.png" />
 
 <p align="center">
 
